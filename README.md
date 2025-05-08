@@ -1,6 +1,3 @@
-Sure! Here's your revised content in proper **Markdown (.md)** format:
-
-````markdown
 # overcooked2-experiment-repo
 
 A lightweight Python-based implementation inspired by Toyoda-san's work, aiming to reproduce agent behavior in an Overcooked2-like environment.
