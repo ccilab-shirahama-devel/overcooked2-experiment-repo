@@ -4,11 +4,11 @@ A lightweight Python-based implementation inspired by Toyoda-san's work, aiming 
 
 ## How to Use
 
-1. **Clone the repository**  
+1. **Clone the repository**
    ```bash
    git clone <repository_url>
-````
-
+   ```
+   
 2. **Install the required packages**
 
    ```bash
@@ -16,9 +16,5 @@ A lightweight Python-based implementation inspired by Toyoda-san's work, aiming 
    ```
 
 3. **Set the Unity environment executable path or URL**
-   In the code, locate the `env_url` variable and update it with the path or download link to the Unity environment executable (e.g., `.exe` file).
 
-```
-
-You can paste this directly into your `README.md`. Want me to include example paths or screenshots for clarity?
-```
+   In the code, locate the `env_url` variable and update it with the path of this executable file.
